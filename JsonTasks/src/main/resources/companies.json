@@ -1,0 +1,15 @@
+{
+  "InsuranceCompanies": {
+    "InsuranceCompany": [
+      {
+        "No": "1",
+        "Name": "Berkshire Hathaway ( BRK.A)",
+        "Market Capitalization": "$507.04 billion"
+      },
+      {
+        "No": "2",
+        "Name": "LFC"
+      }
+    ]
+  }
+}
